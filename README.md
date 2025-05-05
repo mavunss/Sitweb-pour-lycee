@@ -9,13 +9,21 @@ Ojectif:
 Problèmes rencontrés:
 Trier ses dossiers. J'ai éssayé par de nombreux moyen de ranger les documents par language en suivant un structure de la sorte: 
 mon-projet/
+
 ├── index.html
+
 ├── style/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 ├── assets/
+
 │   ├── images/
+
 └── README.md
 Mais même en utilisant des extensions VS tels que File Utils ou bien par les settings.json grâce à la configuration suivante:
 {
