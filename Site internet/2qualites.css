@@ -1,0 +1,40 @@
+
+.qualities-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.qualities-container ul {
+    padding-left: 20px;
+}
+
+.qualities-container li {
+    margin-bottom: 10px;
+}
+
+.return-link {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.dark-theme .qualities-container {
+    background-color: #222;
+    color: #fff;
+}
+
+.dark-theme .qualities-container h2 {
+    color: #fff;
+}
+
+.dark-theme .qualities-container hr {
+    background-color: #fff;
+}
+
+.theme-toggle button:hover {
+    background-color: #0056b3;
+}
