@@ -25,7 +25,11 @@ mon-projet/
 │   ├── images/
 
 └── README.md
+
+
 Mais même en utilisant des extensions VS tels que File Utils ou bien par les settings.json grâce à la configuration suivante:
+
+
 {
   "explorer.fileOrder": {
     "**/index.html": 1,
@@ -36,6 +40,8 @@ Mais même en utilisant des extensions VS tels que File Utils ou bien par les se
   },
   "explorer.sortOrder": "custom"
 }
+
+
 
 Je n'ai pas réussi à bien trier tout mes fichiers et j'ai était contraint de les laisser en désordre ce qui, en travaille de groupe ne sera pas très pratique
 
